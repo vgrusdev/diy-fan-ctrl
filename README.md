@@ -1,2 +1,2 @@
-# diy-fan-ctrl
+# fan-ctrl
 bathroom fan controller
